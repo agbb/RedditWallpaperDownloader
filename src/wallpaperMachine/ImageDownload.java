@@ -1,4 +1,4 @@
-package testing;
+package wallpaperMachine;
 
 import javax.swing.JOptionPane;
 

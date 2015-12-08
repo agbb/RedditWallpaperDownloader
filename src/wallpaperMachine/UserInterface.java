@@ -1,4 +1,4 @@
-package testing;
+package wallpaperMachine;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

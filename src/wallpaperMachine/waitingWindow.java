@@ -1,4 +1,4 @@
-package testing;
+package wallpaperMachine;
 
 import java.util.Observable;
 import java.util.Observer;
